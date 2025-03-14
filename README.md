@@ -1,1 +1,2 @@
 # smartShoe
+Blind and partially sighted people face many challenges when walking in public spaces. Physical obstacles such as street tables, table legs, walls, overhead obstacles such as signs and tree branches, and other unforeseen obstacles can cause injuries. The white cane is one of the traditional tools for detecting obstacles, but this tool cannot cover all hazards. This project aims to design and develop a smart shoe that detects obstacles using sensors and notifies the user through vibration and sound alerts.
